@@ -17,8 +17,6 @@ pylint-django==2.4.4
 pylint-plugin-utils==0.6
 pymacaroons==0.13.0
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
-pytz==2019.3
 pyxdg==0.26
 PyYAML==5.3.1
 readme-renderer==29.0
