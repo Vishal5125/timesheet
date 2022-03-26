@@ -76,9 +76,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'timesheet',
-        'USER': 'postgres',
-        'PASSWORD': 'insane',
-        'HOST': 'localhost',
+        'USER': 'gtlcukbxlaoaqs',
+        'PASSWORD': 'e38246ad6a906bb83d47ae3c577b0f1be48c59e819a65f293b2efc3500070f89',
+        'HOST': 'ec2-99-80-170-190.eu-west-1.compute.amazonaws.com',
         'port': '5432'
     }
 }
