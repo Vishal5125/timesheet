@@ -75,10 +75,10 @@ WSGI_APPLICATION = 'timesheet.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'timesheet',
-        'USER': 'gtlcukbxlaoaqs',
-        'PASSWORD': 'e38246ad6a906bb83d47ae3c577b0f1be48c59e819a65f293b2efc3500070f89',
-        'HOST': 'ec2-99-80-170-190.eu-west-1.compute.amazonaws.com',
+        'NAME': 'd6jdod07srfsg',
+        'USER': 'npwaumrxibbdan',
+        'PASSWORD': 'edf98d65e39886f2f8ca00dceb1906cf72bde57bb3470bfe5517e9716a8e78fd',
+        'HOST': 'ec2-34-231-183-74.compute-1.amazonaws.com',
         'port': '5432'
     }
 }
