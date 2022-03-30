@@ -1,1 +1,1 @@
-web:gunicorn timesheet.wsgi
+web: gunicorn timesheet.wsgi
